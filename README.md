@@ -6,3 +6,5 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 First line added
 Second line added
 4th commit
+Amend in 5th commit
+Testing hard reset
