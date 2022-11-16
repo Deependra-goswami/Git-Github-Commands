@@ -8,3 +8,4 @@ Second line added
 4th commit
 Amend in 5th commit
 Testing hard reset
+#Updating a file in Github Demo
